@@ -1,0 +1,124 @@
+{
+  "categories": [
+    {
+      "name": "Leadership",
+      "verbs": [
+        "Led",
+        "Directed",
+        "Managed",
+        "Supervised",
+        "Coordinated",
+        "Spearheaded",
+        "Guided",
+        "Mentored",
+        "Chaired",
+        "Orchestrated"
+      ]
+    },
+    {
+      "name": "Achievement",
+      "verbs": [
+        "Achieved",
+        "Delivered",
+        "Drove",
+        "Generated",
+        "Secured",
+        "Exceeded",
+        "Accelerated",
+        "Won",
+        "Completed",
+        "Launched"
+      ]
+    },
+    {
+      "name": "Communication",
+      "verbs": [
+        "Communicated",
+        "Presented",
+        "Authored",
+        "Drafted",
+        "Negotiated",
+        "Persuaded",
+        "Promoted",
+        "Articulated",
+        "Corresponded",
+        "Liaised"
+      ]
+    },
+    {
+      "name": "Technical",
+      "verbs": [
+        "Developed",
+        "Engineered",
+        "Coded",
+        "Configured",
+        "Debugged",
+        "Deployed",
+        "Architected",
+        "Optimized",
+        "Integrated",
+        "Automated"
+      ]
+    },
+    {
+      "name": "Creative",
+      "verbs": [
+        "Designed",
+        "Created",
+        "Conceptualized",
+        "Innovated",
+        "Revamped",
+        "Illustrated",
+        "Branded",
+        "Visualized",
+        "Authored",
+        "Composed"
+      ]
+    },
+    {
+      "name": "Analysis",
+      "verbs": [
+        "Analyzed",
+        "Assessed",
+        "Evaluated",
+        "Researched",
+        "Interpreted",
+        "Audited",
+        "Diagnosed",
+        "Forecasted",
+        "Modeled",
+        "Tested"
+      ]
+    },
+    {
+      "name": "Improvement",
+      "verbs": [
+        "Improved",
+        "Enhanced",
+        "Streamlined",
+        "Refined",
+        "Upgraded",
+        "Transformed",
+        "Revitalized",
+        "Redesigned",
+        "Standardized",
+        "Simplified"
+      ]
+    },
+    {
+      "name": "Collaboration",
+      "verbs": [
+        "Collaborated",
+        "Partnered",
+        "Facilitated",
+        "Contributed",
+        "Supported",
+        "Assisted",
+        "Aligned",
+        "Consulted",
+        "Teamed",
+        "Coached"
+      ]
+    }
+  ]
+}
