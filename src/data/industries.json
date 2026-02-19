@@ -1,0 +1,174 @@
+{
+  "industries": [
+    {
+      "id": "tech",
+      "name": "Technology",
+      "suggestedSkills": [
+        "JavaScript",
+        "React",
+        "Python",
+        "Node.js",
+        "SQL",
+        "Git",
+        "AWS",
+        "TypeScript",
+        "REST APIs",
+        "Agile"
+      ],
+      "keywords": [
+        "full stack",
+        "frontend",
+        "backend",
+        "cloud",
+        "scrum",
+        "CI/CD",
+        "microservices",
+        "DevOps",
+        "API",
+        "database"
+      ],
+      "resumeTips": [
+        "Highlight specific technical skills with proficiency levels.",
+        "Quantify achievements: 'Reduced load time by 40%'.",
+        "Include links to GitHub or portfolio.",
+        "Mention agile methodologies and team collaboration."
+      ]
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing",
+      "suggestedSkills": [
+        "SEO/SEM",
+        "Content Strategy",
+        "Social Media",
+        "Google Analytics",
+        "Email Marketing",
+        "CRM",
+        "Copywriting",
+        "Market Research",
+        "Campaign Management",
+        "Brand Strategy"
+      ],
+      "keywords": [
+        "ROI",
+        "conversion",
+        "engagement",
+        "funnel",
+        "brand awareness",
+        "lead generation",
+        "PPC",
+        "inbound",
+        "outreach",
+        "analytics"
+      ],
+      "resumeTips": [
+        "Show metrics: 'Increased traffic by 150%'.",
+        "Demonstrate creativity with campaign examples.",
+        "List tools like HubSpot, Mailchimp, or Google Ads.",
+        "Tailor keywords to the specific marketing role."
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Finance",
+      "suggestedSkills": [
+        "Financial Analysis",
+        "Excel",
+        "QuickBooks",
+        "Budgeting",
+        "Forecasting",
+        "SAP",
+        "Risk Management",
+        "Auditing",
+        "Tax Preparation",
+        "Financial Reporting"
+      ],
+      "keywords": [
+        "P&L",
+        "balance sheet",
+        "reconciliation",
+        "compliance",
+        "GAAP",
+        "forecast",
+        "variance analysis",
+        "ROI",
+        "capital",
+        "liquidity"
+      ],
+      "resumeTips": [
+        "Quantify financial impact: 'Managed $5M budget'.",
+        "Highlight certifications (CPA, CFA).",
+        "Show proficiency with ERP systems.",
+        "Detail experience with audits and regulatory filings."
+      ]
+    },
+    {
+      "id": "healthcare",
+      "name": "Healthcare",
+      "suggestedSkills": [
+        "Patient Care",
+        "EMR/EHR",
+        "Medical Terminology",
+        "HIPAA",
+        "CPR",
+        "Clinical Research",
+        "Nursing",
+        "Care Coordination",
+        "Diagnosis",
+        "Treatment Planning"
+      ],
+      "keywords": [
+        "patient advocacy",
+        "healthcare compliance",
+        "medical records",
+        "triage",
+        "inpatient",
+        "outpatient",
+        "telehealth",
+        "pharmacology",
+        "rehabilitation",
+        "wellness"
+      ],
+      "resumeTips": [
+        "Include licenses and certifications clearly.",
+        "Emphasize patient outcomes and safety.",
+        "Detail experience with specific medical software.",
+        "Use empathetic language and patient-centered achievements."
+      ]
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "suggestedSkills": [
+        "Curriculum Development",
+        "Classroom Management",
+        "Lesson Planning",
+        "Student Assessment",
+        "EdTech",
+        "Differentiated Instruction",
+        "Special Education",
+        "Parent Communication",
+        "E-Learning",
+        "Mentoring"
+      ],
+      "keywords": [
+        "pedagogy",
+        "student engagement",
+        "learning outcomes",
+        "K-12",
+        "higher education",
+        "remote learning",
+        "intervention",
+        "literacy",
+        "STEM",
+        "accreditation"
+      ],
+      "resumeTips": [
+        "Quantify improvements in student performance.",
+        "Highlight innovative teaching methods.",
+        "List relevant technology (Google Classroom, Zoom).",
+        "Show involvement in extracurricular or committee work."
+      ]
+    }
+  ]
+}
